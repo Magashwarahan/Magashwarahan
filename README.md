@@ -1,12 +1,17 @@
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![your_cool_intro (3)](https://user-images.githubusercontent.com/74823831/186167315-f354d947-176a-4671-9fe9-d6052d141040.gif)
 # 💫 About Me:
+
 I am Programming enthusiast and fullstack Web developer.I love exploring different kind of fields and I also excited to deep dive in the field of networking and i have some good knowledge in it.I got inspired in this field at my young age. I greatly aspire to
 acquire profound insights on new trends under development,to quench
 my thirst for learning. The quest for learning intrigues me a lot that enables
 me to challenge my limits constantly, bringing out my hidden skills furthermore<br>
+
 🔭 I’m currently working on my ccna<br>🌱 I’m currently learning in the field of security and network domain<br>⚡ Fun fact, iam a POTTERHEAD
 
-#Eduaction:
-Currently,iam an cybersecurity freshman🌱
+# Eduaction:
+Currently, iam an cybersecurity freshman🌱
+<br>Working on comptia security+ and juniper jncia<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DKgy](https://user-images.githubusercontent.com/74823831/186170098-638a3b6d-2d02-4825-91d9-cb62ef7100e3.gif)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iammagash) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/magashwarahan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/iammagash) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iammagash) 

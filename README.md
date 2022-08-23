@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Programming enthusiast and fullstack Web developer<br>I love exploring different kind of fields and I also excited to deep dive in the field of networking and i have some good knowledge in it
+I am Programming enthusiast and fullstack Web developer.I love exploring different kind of fields and I also excited to deep dive in the field of networking and i have some good knowledge in it<br>
 🔭 I’m currently working on my ccna<br>🌱 I’m currently learning in the field of security and network domain<br>⚡ Fun fact, iam a POTTERHEAD
 
 #Eduaction:
